@@ -10,7 +10,8 @@ end
 
 def reduce(array,value=nil)
   if value
-    value = 
-  
+    n = value
+    i = 0
+    
   
 end
