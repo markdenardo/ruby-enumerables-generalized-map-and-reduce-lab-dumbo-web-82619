@@ -1,1 +1,5 @@
-my_own_
+def my_own_map()
+  
+end
+
+def 
