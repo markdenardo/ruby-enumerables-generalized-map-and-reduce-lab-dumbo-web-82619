@@ -1,6 +1,6 @@
 def map_to_negativize(source_array)
   i=0
-  source_array.map { |i| -1*i }
+  new_array = source_array.map { |i| -1*i }
 end
  
 def map_to_no_change(source_array)
