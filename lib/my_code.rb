@@ -1,5 +1,5 @@
 def my_own_map()
-  array.map do 
+  array.map do |
 end
 
 def my_own_reduce
