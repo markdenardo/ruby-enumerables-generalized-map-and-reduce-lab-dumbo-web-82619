@@ -15,5 +15,7 @@ def reduce(array,value=nil)
   else
       n= array[0]
       i=1
+    end
+    
   
 end
