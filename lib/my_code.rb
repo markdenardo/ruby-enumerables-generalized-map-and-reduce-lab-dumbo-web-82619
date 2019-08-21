@@ -11,6 +11,6 @@ end
 def reduce(array,value=nil)
   i=0
   while i<array.length
-  new.
+  
   
 end
