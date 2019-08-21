@@ -2,4 +2,6 @@ def my_own_map()
   
 end
 
-def 
+def my_own_reduce
+  
+end
