@@ -10,13 +10,13 @@ end
 
 def reduce(array,value=nil)
   if value
-    n = value
+    num1 = value
     i = 0
   else
-      n = array[0]
+      num1 = array[0]
       i=1
     end
   while i<array.length
-  yield(n)
+  yield(num1)
   
 end
