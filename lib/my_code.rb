@@ -1,4 +1,5 @@
 def map_to_negativize(source_array)
+  i=0
   source_array.map { |i| -1*i }
   return new
 end
